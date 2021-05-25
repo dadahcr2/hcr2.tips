@@ -7,6 +7,7 @@
 ***
 
 ![General Advice](https://cdn.discordapp.com/attachments/617353655468687390/829082529625014272/image0.png)  
+
 ### Getting started
 #### Introduction
 Hill climb racing 2 is a racing game. Initially the driver will only have one vehicle, but more vehicles can be purchased. There are a number of different aspects to the game including:
