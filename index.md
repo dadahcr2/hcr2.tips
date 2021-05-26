@@ -6,7 +6,7 @@
 
 ***
 
-![General Advice](https://cdn.discordapp.com/attachments/617353655468687390/829082529625014272/image0.png)  
+![General Advice](https://cdn.discordapp.com/attachments/620194322855493632/843947192045666314/image0.png)  
 
 ### Getting started
 #### Introduction
@@ -33,7 +33,7 @@ Then buy the other vehicles so you can start to collect parts for them and use t
 - Beyond this, prioritize upgrades that are needed for an event and/or are likely to be used frequently going forward.
 
 ![](https://cdn.discordapp.com/attachments/819243210340958299/832119333240832040/Tuning_Part_Upgrade_Path-1.jpg)  
-_Source: **x Spectre x**_  
+_Source: **x Spectre x**_   
 #### Adventure
 Try open up additional adventure maps as they become available.
 
@@ -77,7 +77,9 @@ Use special tickets sparingly:
 - Never use a special ticket to redo the first track. It is better to exit, and use the ticket for an additional attempt.
 - Special tickets are best used on the last track of an event, when you have high confidence that you will improve your best score of the match.
 - It is generally best to keep special tickets for tight team matches. Rather use gems for extra attempts at public events or special adventure maps.  
-#### Events  
+
+#### Events   
+
 **Public events**    
 The public events have attractive rewards so I would recommend participating.  
 
