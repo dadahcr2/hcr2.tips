@@ -100,7 +100,7 @@ Buying anything in the shop with real money (even the cheapest item) will stop a
 
 The best value-for-money way to spend real money on the game is a VIP subscription. You can cancel the subscription at any time to avoid automatic renewals, and you will still receive VIP benefits for the remainder of the month. 
 
-See the following for additional Q&A on the shop: https://rentry.co/hcr2#shop-questions
+See the following for additional Q&A on the shop: <http://faq.hcr2.knfo/#shop-questions
 
 #### Summary
 
