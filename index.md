@@ -1,5 +1,4 @@
 
-***
 
 * TOC  
 {:toc}
@@ -135,6 +134,5 @@ See the following for additional Q&A on the shop: https://rentry.co/hcr2#shop-qu
 - Going for world records / Participating in vehicle wars
 - Social media: discord, facebook, reddit
 
-***
 
 
